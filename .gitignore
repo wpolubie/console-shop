@@ -33,5 +33,5 @@ build/
 .vscode/
 
 ### my ###
-.mvn
+/.mvn
 mvnw*
